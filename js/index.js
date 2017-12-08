@@ -28,5 +28,5 @@ else {
     x = ((-b + sqrDiscr) / (2 * a));
     let y;
     y = ((-b - sqrDiscr) / (2 * a));
-    return 'x1 = ' + x + 'x2 = ' + y;
+    return 'x1 = ' + x + ' x2 = ' + y;
 }
